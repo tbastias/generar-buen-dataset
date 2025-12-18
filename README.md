@@ -5,8 +5,11 @@
 Como base hace falta mencionar que de base, independientemente del modelo, siempre se debe mantener cada dato de nuestro conjunto:
 
 ✔ Formato claro y repetible
+
 ✔ Conceptos bien aislados
+
 ✔ Evitar ambigüedad
+
 ✔ Repetición controlada
 
 _Si el dataset está mal, ningún modelo lo arregla._
